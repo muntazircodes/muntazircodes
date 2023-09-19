@@ -7,8 +7,8 @@
 - 📫 How to reach me: [muntazircodes@gmail.com](mailto:muntazircodes@gmail.com)
 - ⚡ Fun fact: I am hilarious 😄
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://discord.gg/4W6RHKJK" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/>
   </a>
