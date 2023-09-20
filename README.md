@@ -12,6 +12,10 @@
   <a href="https://discord.gg/4W6RHKJK" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/>
   </a>
+<a href="https://www.instagram.com/muntazircodes/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original-wordmark.svg" alt="Instagram" width="40" height="40"/>
+</a>
+
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
