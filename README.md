@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Muntazir Manan Dar 👋</h1>
 <h3 align="center">Passionate Data Scientist, Data Analyst, Business Analyst, and Python Developer from India</h3>
 
-- 🔭 I’m currently working on **Using AI to keep bears, humans, and livestock safe**
+- 🔭 I’m currently working on **Using AI to keep Bears, Humans, and Livestock Safe**
 - 🌱 I’m currently learning **Dax Queries and hard coding Python for logic building**
 - 💬 Ask me about **Python, SQL, Machine Learning, and Deep Learning**
 - 📫 How to reach me: [muntazircodes@gmail.com](mailto:muntazircodes@gmail.com)
-- ⚡ Intern at <b>Recimotech Solutions</b> 😄
+- ⚡ Intern at **Recimotech Solutions** 😄
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
