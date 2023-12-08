@@ -10,9 +10,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://discord.gg/4W6RHKJK" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" height="30" width="40"/>
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/muntazircodes/" target="blank"><img  src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/muntazircodes/" height="30" width="40" /></a>
+  <a href="https://instagram.com/https://www.instagram.com/muntazircodes/" target="blank">
+    <img  src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/muntazircodes/" height="30" width="40" />
+  </a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
