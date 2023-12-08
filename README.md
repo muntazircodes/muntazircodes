@@ -17,8 +17,8 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
    <img src= "https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" width="40" height="40"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
+   <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/muntazircodes/" width="40" height="40"/> 
+   <img src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" width="40" height="40"/> 
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
