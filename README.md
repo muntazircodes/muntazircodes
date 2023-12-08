@@ -9,17 +9,11 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://discord.gg/4W6RHKJK" target="_blank"><img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" height="30" width="40" style="margin-right: 10px;" /></a>
-  <a href="https://instagram.com/https://www.instagram.com/muntazircodes/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/muntazircodes/" height="30" width="40" /></a>
-  <a href="#" target="blank"><img src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" alt="#" height="30" width="40" /></a>
-</p>
-<hr>
-<h3 align="left">Connect with me</h3>
-<p align="left">
    <img src= "https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/muntazircodes/" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" width="40" height="40"/> 
 </p>
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
