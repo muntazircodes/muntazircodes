@@ -8,7 +8,7 @@
 - ⚡ Intern at **Recimotech Solutions** 😄
 <hr>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" display = "flex">
   <a href="https://discord.gg/4W6RHKJK" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" height="30" width="40" style="margin-right: 10px;" />
   </a>
