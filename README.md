@@ -14,6 +14,12 @@
   <a href="#" target="blank"><img src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" alt="#" height="30" width="40" /></a>
 </p>
 <hr>
+<h3 align="left">Connect with me</h3>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
