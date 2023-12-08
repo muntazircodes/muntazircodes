@@ -9,6 +9,9 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+   <a href"#">
+      <img src= "https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" width="40" height="40"/> 
+   </a>
    <img src= "https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/muntazircodes/" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" width="40" height="40"/> 
