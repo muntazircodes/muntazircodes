@@ -22,7 +22,6 @@
 </p>
 <hr>
 <h1 align="center">Languages and Tools:</h1>
-<hr>
 <div align="left">
    <h3 align="left">Web Development :</h3>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
