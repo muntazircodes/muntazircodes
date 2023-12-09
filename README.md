@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Muntazir Manan Dar 👋</h1>
-<h3 align="center">Passionate Data Scientist, Data Analyst, Business Analyst, and Python Developer from India</h3>
+<h3 align="center">Passionate Data Scientist, Data Analyst,and Python Developer, Web Designer, C programmer from Kashmir</h3>
 
-- 🔭 I’m currently working on **Using AI to keep Bears, Humans, and Livestock Safe**
+- 🔭 I’m currently working on **C programming and want to see how embedded C works**
 - 🌱 I’m currently learning **Dax Queries and hard coding Python for logic building**
+- 📚 I am learning C programming and **learning more about AI**
 - 💬 Ask me about **Python, SQL, Machine Learning, and Deep Learning**
 - 📫 How to reach me: [muntazircodes@gmail.com](mailto:muntazircodes@gmail.com)
 - ⚡ Intern at **Recimotech Solutions** 😄
