@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muntazir Manan Dar 👋</h1>
-<h3 align="center">Passionate Data Scientist, Data Analyst,and Python Developer, Web Designer, C programmer from Kashmir</h3>
+<h3 align="center">Passionate Data Scientist, Data Analyst, Python Developer, Web Designer, C programmer from Kashmir</h3>
 
 - 🔭 I’m currently working on **C programming and want to see how embedded C works**
 - 🌱 I’m currently learning **Dax Queries and hard coding Python for logic building**
