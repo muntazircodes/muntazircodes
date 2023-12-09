@@ -21,7 +21,7 @@
    </a>
 </p>
 <hr>
-<h2 align="center">Languages and Tools:</h2>
+<h1 align="center">Languages and Tools:</h1>
 <hr>
 <div align="left">
    <h3 align="left">Web Development :</h3>
