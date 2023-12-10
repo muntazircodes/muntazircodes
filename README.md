@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Muntazir Manan Dar 👋</h1>
-<h3 align="center">Passionate Data Scientist, Data Analyst, Python Developer, Web Designer, C programmer from Kashmir</h3>
+<h1 align="center">Greetings, I am Muntazir Manan Dar 👋</h1>
+<h3 align="center">Dedicated Data Scientist, Data Analyst, Python Developer, Web Designer, and C Programmer from Kashmir</h3>
 
-- 🔭 I’m currently working on **C programming and want to see how embedded C works**
-- 🌱 I’m currently learning **Dax Queries and hard coding Python for logic building**
-- 📚 I am learning C programming and **learning more about AI**
-- 💬 Ask me about **Python, SQL, Machine Learning, and Deep Learning**
-- 📫 How to reach me: [muntazircodes@gmail.com](mailto:muntazircodes@gmail.com)
-- ⚡ Intern at **Recimotech Solutions** 😄
+- 🔭 Currently immersed in **exploring the intricacies of C programming and delving into embedded C**
+- 🌱 Actively pursuing knowledge in **Dax Queries and honing Python for advanced logic building**
+- 📚 Engaged in mastering C programming and **expanding expertise in AI**
+- 💬 Feel free to inquire about **Python, SQL, Machine Learning, and Deep Learning**
+- 📫 Reach out to me at [muntazircodes@gmail.com](mailto:muntazircodes@gmail.com)
+- ⚡ Interning at **Recimotech Solutions** 😄
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
