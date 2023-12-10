@@ -8,7 +8,7 @@
 - 📫 Reach out to me at [muntazircodes@gmail.com](mailto:muntazircodes@gmail.com)
 - ⚡ Interning at **Recimotech Solutions** 😄
 <hr>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
    <a href="#">
       <img src= "https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" width="40" height="40"/> 
@@ -21,7 +21,7 @@
    </a>
 </p>
 <hr>
-<h1 align="center">Languages and Tools:</h1>
+<h1 align="center">Skills and Technologies:</h1>
 <div align="left">
    <h3 align="left">Web Development :</h3>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
@@ -55,3 +55,4 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=muntazircodes&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+
