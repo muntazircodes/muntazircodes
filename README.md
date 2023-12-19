@@ -48,19 +48,11 @@
 
 <hr>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muntazircodes&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=muntazircodes&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muntazircodes&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muntazircodes&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muntazircodes&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=muntazircodes&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=muntazircodes&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=muntazircodes&icon=1&color=12)](https://visitcount.itsvg.in)
