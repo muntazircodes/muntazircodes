@@ -10,13 +10,16 @@
 <hr>
 <h3 align="left">Contact me:</h3>
 <p align="left">
+   <a href="www.linkedin.com/in/muntazircodes"> 
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedIn" width="40" height="40"/>
+   </a>
    <a href="#">
       <img src= "https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" width="40" height="40"/> 
    </a>
    <a href="https://www.instagram.com/muntazircodes/">
       <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/muntazircodes/" width="40" height="40"/> 
    </a>
-   <a href="www.linkedin.com/in/muntazircodes">
+   <a href="#">
          <img src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" width="40" height="40"/> 
    </a>
 </p>
