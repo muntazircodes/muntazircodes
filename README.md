@@ -10,7 +10,7 @@
 <hr>
 <h3 align="left">Contact me:</h3>
 <p align="left">
-   <a href="www.linkedin.com/in/muntazircodes"> 
+   <a href="https://www.linkedin.com/in/muntazircodes"> 
       <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedIn" width="40" height="40"/>
    </a>
    <a href="#">
