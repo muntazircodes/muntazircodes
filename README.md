@@ -19,9 +19,6 @@
    <a href="https://www.instagram.com/muntazircodes/">
       <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/muntazircodes/" width="40" height="40"/> 
    </a>
-   <a href="#">
-         <img src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" width="40" height="40"/> 
-   </a>
 </p>
 <hr>
 <h1 align="center">Skills and Technologies:</h1>
