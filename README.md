@@ -1,7 +1,7 @@
 # Muntazir Manan
 
 ### Backend Developer | US Expentor
-Passionate backend developer with a focus on building robust, efficient, and scalable server-side applications. Currently honing core software development skills and leveraging expertise in modern backend technologies.
+Passionate backend developer focused on building robust, efficient, and scalable server-side applications. Currently honing core software development skills and leveraging expertise in modern backend technologies.
 
 ---
 
@@ -49,23 +49,23 @@ Passionate backend developer with a focus on building robust, efficient, and sca
 ## 🌱 **Currently Learning**
 - Advanced Software Development Practices
 - Optimization Techniques for Backend Systems
-- Expanding expertise in AI and Data Science tools.
+- Expanding expertise in AI and Data Science tools
 
 ---
 
 ## 📫 **Reach Out to Me**
-- Email: [muntazircodes@gmail.com](mailto:muntazircodes@gmail.com)
-- LinkedIn: [Muntazir Manan](https://www.linkedin.com/in/muntazircodes)
-- Instagram: [@muntazircodes](https://www.instagram.com/muntazircodes/)
-- Discord: Available upon request
+- **Email:** [muntazircodes@gmail.com](mailto:muntazircodes@gmail.com)
+- **LinkedIn:** [Muntazir Manan](https://www.linkedin.com/in/muntazircodes)
+- **Instagram:** [@muntazircodes](https://www.instagram.com/muntazircodes/)
+- **Discord:** Available upon request
 
 ---
 
 ## 📊 **GitHub Stats**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muntazircodes&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muntazircodes&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muntazircodes&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=muntazircodes&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
