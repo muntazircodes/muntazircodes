@@ -7,34 +7,40 @@ Passionate backend developer focused on building robust, efficient, and scalable
 
 ## 🛠 **Skills and Expertise**
 
-### **Programming Languages**
-- ![Python Logo](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) Python
-- ![C Logo](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) C
-
-### **Frameworks and Libraries**
-- ![Flask Logo](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) Flask
-- ![FastAPI Logo](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) FastAPI
-- ![Bootstrap Logo](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) Bootstrap
-
-### **Databases**
-- ![MySQL Logo](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) MySQL
-- ![PostgreSQL Logo](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) PostgreSQL
-
-### **AI and Data Science Tools**
-- ![NumPy Logo](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) NumPy
-- ![Pandas Logo](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) Pandas
-- ![Scikit-Learn Logo](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) Scikit-Learn
-- ![PyTorch Logo](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) PyTorch
-- ![TensorFlow Logo](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) TensorFlow
-
-### **Development and Version Control**
-- ![Git Logo](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) Git
-- ![Figma Logo](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) Figma
-
-### **Web Technologies**
-- ![HTML5 Logo](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) HTML5
-- ![CSS3 Logo](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) CSS3
-- ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) JavaScript
+### My Skill Set  
+<table>
+    <tr>
+        <td valign="top" width="33%">
+            <h3 align="center">Frontend</h3>
+            <div align="center">  
+                <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+                <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+                <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+                <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+                <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+                <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+                <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+            </div>
+        </td>
+        <td valign="top" width="33%">
+            <h3 align="center">Backend</h3>
+            <div align="center">  
+                <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+                <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+                <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+                <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+                <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+                <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+            </div>
+        </td>
+        <td valign="top" width="33%">
+            <h3 align="center">DevOps</h3>
+            <div align="center">  
+                <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+            </div>
+        </td>
+    </tr>
+</table>  
 
 ---
 
@@ -63,9 +69,9 @@ Passionate backend developer focused on building robust, efficient, and scalable
 
 ## 📊 **GitHub Stats**
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muntazircodes&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muntazircodes&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=muntazircodes&show_icons=true&locale=en" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=muntazircodes&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
