@@ -66,12 +66,3 @@ Passionate backend developer focused on building robust, efficient, and scalable
 - **Discord:** Available upon request
 
 ---
-
-## 📊 **GitHub Stats**
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muntazircodes&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=muntazircodes&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
