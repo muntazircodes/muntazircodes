@@ -8,7 +8,7 @@ Passionate backend developer focused on building robust, efficient, and scalable
 ## 🛠 **Skills and Expertise**
 
 ### My Skill Set
-<table>
+<table width="100%">
     <tr>
         <td valign="top" width="33%">
             <h3 align="center">Frontend</h3>
