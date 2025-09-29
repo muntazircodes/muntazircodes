@@ -1,6 +1,6 @@
 # Muntazir Manan
 
-### Backend Developer | Stealth
+### Backend Developer | Invisible Technologies
 Passionate backend developer focused on building robust, efficient, and scalable server-side applications. Currently honing core software development skills and leveraging expertise in modern backend technologies.
 
 ---
